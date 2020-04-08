@@ -7,5 +7,6 @@ public class MainApp
 		System.out.println("This is a github test.");
 		System.out.println("Update Test.");
 		System.out.println("Update Test.");
+		System.out.println("Update Test 3.");
 	}
 }
