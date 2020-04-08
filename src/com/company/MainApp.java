@@ -10,5 +10,6 @@ public class MainApp
 		System.out.println("Update Test 3.");
 		System.out.println("Update Test 4.");
 		System.out.println("Update Test 5.");
+		System.out.println("Update Test 6.");
 	}
 }
